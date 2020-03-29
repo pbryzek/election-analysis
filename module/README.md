@@ -1,5 +1,5 @@
-# UCB-VIRT-DATA-PT-03-2020-U-B-TTH
-# Bootcamp Week3: election-analysis Module
+# Bootcamp: UCB-VIRT-DATA-PT-03-2020-U-B-TTH
+# Week3: Election Analysis Module
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local comgressional election.
