@@ -7,8 +7,8 @@ Bootcamp Challenge 3: Election Analysis with Python
 - Software: Python 3.8.2, Visual Studio Code, 1.43.2
 
 ### Excel Python Script
-[PyPoll Challenge](PyPoll_Challenge.py)
-[PyPoll Analysis](analysis/election_analysis.txt)
+- [PyPoll Challenge](PyPoll_Challenge.py)
+- [PyPoll Analysis](analysis/election_analysis.txt)
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local comgressional election.
